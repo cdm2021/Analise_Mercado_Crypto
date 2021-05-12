@@ -1,4 +1,4 @@
-# Crypto_2020_2semestre 💰
+# 💰 Crypto_2020_2semestre 💰
 
 Os dados foram recolhidos através do site coingecko (https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o volume de diversas criptomoedas nos últimos 365 dias que nos foram fornecidos através de um ficheiro .json.
 
