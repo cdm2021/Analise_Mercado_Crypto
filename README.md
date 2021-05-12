@@ -1,4 +1,4 @@
-# Crypto_2020_2semestre ![Bitcoin-BTC-icon](https://user-images.githubusercontent.com/83303432/118025045-4cfb5b00-b357-11eb-8f42-adfcc326cf22.png)
+# Crypto_2020_2semestre ![Bitcoin-BTC-icon](https://user-images.githubusercontent.com/83303432/118025045-4cfb5b00-b357-11eb-8f42-adfcc326cf22.png | width=100)
 
 Os dados foram recolhidos através do site coingecko (https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o volume de diversas criptomoedas nos últimos 365 dias que nos foram fornecidos através de um ficheiro .json.
 
