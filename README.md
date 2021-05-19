@@ -15,19 +15,22 @@ A estrutura base deste ficheiro, desenhada para fácil manipulação em Excel/Py
 
 Porque todas as boas decisões começam com bons dados.
 
-👁️ Aplicações disponiveis neste repositório 👁️
-
-
-
-
-
 🧱 Estrutura 🧱
+Analysing Crypto Market Overall (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Analysing%20Crypto%20Market%20Overall.ipynb) - 
+Price and MarketCap BTCUSD (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Price%20and%20MarketCap%20BTCUSD.ipynb) - 
+Price and MarketCap ETHUSD.ipynb (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Price%20and%20MarketCap%20ETHUSD.ipynb) - 
+Crypto_2020_2semestre (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/ROI%20Analysis%20BTC-USD.ipynb) -
 
+🚀 Funções das aplicações 🚀
+Analysing Crypto Market Overall - Partilha de mercado entre as 100 maiores Criptomoedas em 2020
+Price and MarketCap BTCUSD - Preço e Volume de negócio da Bitcoin em 2020
+Price and MarketCap ETHUSD - Preço e Volume de negócio da Ethereum em 2020
+Crypto_2020_2semestre - Retorno de investimento em 30 dias em 2020
 
 📔 Dicionário dos dados 📔
-
+| Nome do ficheiro  |  Função e contéudo  |
+| ------------------- | ------------------- |
+|  Célula de conteúdo |  Célula de conteúdo |
+|  Célula de conteúdo |  Célula de conteúdo |
 
 💡 Problemas, inconsistências e melhorias 💡 
-
-
-
