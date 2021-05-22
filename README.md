@@ -25,10 +25,9 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD:(https://github.c
 Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
 
 ## 🚀 Funções das aplicações 🚀
-Analysing Crypto Market Overall - Partilha de mercado entre as 100 maiores Criptomoedas em 2020
-Price and MarketCap BTCUSD - Preço e Volume de negócio da Bitcoin em 2020
-Price and MarketCap ETHUSD - Preço e Volume de negócio da Ethereum em 2020
-Crypto_2020_2semestre - Retorno de investimento em 30 dias em 2020
+Análise de mercado de cryptomoedas em relação a MarketShare - Partilha de mercado entre as 100 maiores Criptomoedas em 2020
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin em 2020
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum em 2020
 
 ## 📔 Dicionário dos dados 📔
 | Nome do ficheiro  |  Função e contéudo  |
