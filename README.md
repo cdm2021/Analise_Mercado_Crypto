@@ -25,8 +25,12 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD:(https://github.c
 Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
 
 ## 🚀 Funções das aplicações 🚀
-Análise de mercado de cryptomoedas em relação a MarketShare - Partilha de mercado entre as 100 maiores Criptomoedas em 2020
-Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin em 2020
+Disclaimer: Este trabalho nao tem como intuito de dar aconcelhamento financeiro, tem apenas o intuito de verificar dados de ação de preço ao longo dos anos.
+
+Análise de mercado de cryptomoedas em relação a MarketShare - Representação gráfica e atualizada de partilha de mercado entre as 100 maiores Criptomoedas em 2020. O uso de "others" serve para simplificar o gráfico e obter uma melhor visualização sobre as moedas que com maior valor total de mercado.
+
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin histórico desde 01/01/2014 até 01/03/2021. Foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O calculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
+
 Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum em 2020
 
 ## 📔 Dicionário dos dados 📔
