@@ -1,7 +1,7 @@
 # 💰 Crypto_2020_2semestre 💰
 
 ## 📋 Recolha de dados 📋
-Os dados foram recolhidos através do site coingecko (https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o volume de diversas criptomoedas nos últimos 365 dias que nos foram fornecidos através de um ficheiro .json.
+Os dados foram recolhidos através do site coingecko (https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o preço, volume e "market cap" de diversas cryptomoedas. Foram feitos mais "requests" de preço, volume e "market cap" históricos das moedas Bitcoin e Ethereum. Para o caso do Bitcoin a base de dados pedida foi entre 2014 até 2021. Já no caso do Ethereum, por ser uma moeda mais recente, a base de dados pedida apenas abrange dados entre 2016 até 2021. Todos foram fornecidos através do formato .json.
 
 A Coingecko é uma plataforma que fornece uma análise fundamental do mercado de criptomoedas. Além de acompanhar preços, volume e capitalização de mercado, a CoinGecko acompanha o crescimento da comunidade, desenvolvimento do código-fonte aberto, principais eventos e métricas em cadeia.
 
