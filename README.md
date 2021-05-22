@@ -13,7 +13,7 @@ A maioria dos sites que faz o reportório deste tipo de dados disponibiliza-os d
 
 Como as API estão disponiveis na nuvem destes websites, então não é necessário descarregar-las e fica fácil para qualquer utilizador que quiser aceder a estes dados relativamente aos seus investimentos nesta área a partir do github.
 
-A estrutura base deste ficheiro, desenhada para fácil manipulação em Excel/Python/R não mudará, podendo a comunidade analítica considerá-lo um alvo imutável (em termos de localização e estrutura) para, por exemplo, alimentar plataformas de visualização/modelação. De notar que, mediante no final do ano 2021 com os relatórios da situação que irão decorrer, poderão ser adicionadas novas colunas desde que fornecidas pelo mesmo website e tratadas da mesma forma, mantendo-se claro a retrocompatibilidade. Fontes adicionais de dados poderão também então ser adicionadas.
+A estrutura base deste ficheiro, desenhada para fácil manipulação em Excel/Python/R, não mudará, podendo a comunidade analítica considerá-lo um alvo imutável (em termos de localização e estrutura) para, por exemplo, alimentar plataformas de visualização/modelação. De notar que, mediante no final do ano 2021 com os relatórios da situação que irão decorrer, poderão ser adicionadas novas colunas desde que fornecidas pelo mesmo website e tratadas da mesma forma, mantendo-se claro a retrocompatibilidade. Fontes adicionais de dados poderão também então ser adicionadas.
 
 Porque todas as boas decisões começam com bons dados.
 
