@@ -16,10 +16,9 @@ A estrutura base deste ficheiro, desenhada para fácil manipulação em Excel/Py
 Porque todas as boas decisões começam com bons dados.
 
 ## 🧱 Estrutura 🧱
-Analysing Crypto Market Overall (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Analysing%20Crypto%20Market%20Overall.ipynb) - 
-Price and MarketCap BTCUSD (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Price%20and%20MarketCap%20BTCUSD.ipynb) - 
-Price and MarketCap ETHUSD.ipynb (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/Price%20and%20MarketCap%20ETHUSD.ipynb) - 
-Crypto_2020_2semestre (https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Trabalho%20Final%3F/ROI%20Analysis%20BTC-USD.ipynb) -
+Análise de mercado de cryptomoedas em relação a MarketShare:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/An%C3%A1lise%20de%20mercado%20de%20cryptomoedas%20no%20geral.ipynb).
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20BTC-USD.ipynb).
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
 
 ## 🚀 Funções das aplicações 🚀
 Analysing Crypto Market Overall - Partilha de mercado entre as 100 maiores Criptomoedas em 2020
