@@ -34,6 +34,9 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume
 Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum histórico desde 01/01/2016 até 01/03/2021. Tal como no caso do Bitcoin, foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
 
 ## 📔 Dicionário dos dados 📔
+
+bitcoin_price_marketcap_volume_20140101_20210302.csv
+
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  data |  Data | DD-MM-YYYY h:m:s.ms |
