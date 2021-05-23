@@ -57,6 +57,23 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume
 |  ROI 30 Dias 2019 |  Roi em 2019  |  >=0  |
 |  ROI 30 Dias 2020 |  Roi em 2020  |  >=0  |
 |  ROI 30 Dias Médio |  Roi médio  |  >=0  |
+|  ROI 60 Dias 2014 |  Roi em 2014  |  >=0  |
+|  ROI 60 Dias 2015 |  Roi em 2015  |  >=0  |
+|  ROI 60 Dias 2016 |  Roi em 2016  |  >=0  |
+|  ROI 60 Dias 2017 |  Roi em 2017  |  >=0  |
+|  ROI 60 Dias 2018 |  Roi em 2018  |  >=0  |
+|  ROI 60 Dias 2019 |  Roi em 2019  |  >=0  |
+|  ROI 60 Dias 2020 |  Roi em 2020  |  >=0  |
+|  ROI 60 Dias Médio |  Roi médio  |  >=0  |
+|  ROI 90 Dias 2014 |  Roi em 2014  |  >=0  |
+|  ROI 90 Dias 2015 |  Roi em 2015  |  >=0  |
+|  ROI 90 Dias 2016 |  Roi em 2016  |  >=0  |
+|  ROI 90 Dias 2017 |  Roi em 2017  |  >=0  |
+|  ROI 90 Dias 2018 |  Roi em 2018  |  >=0  |
+|  ROI 90 Dias 2019 |  Roi em 2019  |  >=0  |
+|  ROI 90 Dias 2020 |  Roi em 2020  |  >=0  |
+|  ROI 90 Dias Médio |  Roi médio  |  >=0  |
+
 
 
 ## 💡 Problemas, inconsistências e melhorias 💡 
