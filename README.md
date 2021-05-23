@@ -42,4 +42,21 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
 |  ROI |  Retorno sobre o investimento |  <0<  |
 |  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
+|  preço_inicial |  Preço inicial de uma moeda num determinado momento |  >=0  |
+|  prices |  Preço da moeda |  >=0  |
+|  Percentagem |  Percentagem de determinado valor |  >=0  |
+|  MarketShare | Percentagem de cada moeda no mercado |  >=0  |
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  ROI 30 Dias 2014 |  Roi em 2014  |  >=0  |
+|  ROI 30 Dias 2015 |  Roi em 2015  |  >=0  |
+|  ROI 30 Dias 2016 |  Roi em 2016  |  >=0  |
+|  ROI 30 Dias 2017 |  Roi em 2017  |  >=0  |
+|  ROI 30 Dias 2018 |  Roi em 2018  |  >=0  |
+|  ROI 30 Dias 2019 |  Roi em 2019  |  >=0  |
+|  ROI 30 Dias 2020 |  Roi em 2020  |  >=0  |
+|  ROI 30 Dias Médio |  Roi médio  |  >=0  |
+
+
 ## 💡 Problemas, inconsistências e melhorias 💡 
