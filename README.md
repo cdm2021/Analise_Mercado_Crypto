@@ -36,7 +36,7 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume
 ## 📔 Dicionário dos dados 📔
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  data |  Data | DD-MM-YYYY  |
+|  data |  Data | DD-MM-YYYY h:m:s.ms |
 |  BTCUSD |  Valor da Bitcoin em dólares | >=0 |
 |  ETHUSD |  Valor da Ethereum em dólares | >=0 |
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
