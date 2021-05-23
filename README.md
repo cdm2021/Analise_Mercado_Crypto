@@ -49,6 +49,7 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  |  YYYY  |
 |  ROI 30 Dias 2014 |  Roi em 2014  |  >=0  |
 |  ROI 30 Dias 2015 |  Roi em 2015  |  >=0  |
 |  ROI 30 Dias 2016 |  Roi em 2016  |  >=0  |
