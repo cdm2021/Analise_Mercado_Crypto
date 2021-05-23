@@ -39,7 +39,7 @@ bitcoin_price_marketcap_volume_20140101_20210302.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  data |  Data | DD-MM-YYYY h:m:s.ms |
+|  data |  Data | DD-MM-YYYY h-m-s-ms |
 |  BTCUSD |  Valor da Bitcoin em dólares | >=0 |
 |  ETHUSD |  Valor da Ethereum em dólares | >=0 |
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
