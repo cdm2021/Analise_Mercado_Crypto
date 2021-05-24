@@ -156,6 +156,22 @@ ethereum_roi_90_dias_mensal.csv
 |  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
+ethereum_roi_anual_2016_2020.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  | YYYY  |
+|  ROI |  ROI médio de cada ano  | 0 <= x <= 100, com valor percentual |
+|  Preço Inicial |  preço inicial no inicio de cada ano  | 0 <= x <= 100, com valor percentual |
+
+marketshare_top100_crypto_20210522.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  name |  Nome da moeda  | Nome |
+|  current_price |  preço atual da moeda  |   |
+|  market_cap | Valor total de mercado de uma moeda | >=0 |
+|  total_volume |  Total de moedas trocadas num determinado período de tempo  |>=0 |
 
 
 ## 💡 Problemas, inconsistências e melhorias 💡 
