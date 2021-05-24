@@ -24,11 +24,11 @@ Este projeto pode ser considerado ético e público assim como todos os dados do
 Porque todas as boas decisões começam com bons dados.
 
 ## 🧱 Estrutura 🧱
-[Análise de mercado de cryptomoedas em relação a MarketShare](https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/An%C3%A1lise%20de%20mercado%20de%20cryptomoedas%20no%20geral.ipynb).
+[Análise de mercado de cryptomoedas em relação a MarketShare](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Análise%20de%20mercado%20de%20cryptomoedas%20no%20geral.ipynb).
 
-[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD](https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20BTC-USD.ipynb).
+[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Preço%2C%20Volume%20e%20ROI%20Anual%2C%20de%2030%2C%2060%20e%2090%20dias%20do%20par%20BTC-USD.ipynb).
 
-[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD](https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/Pre%C3%A7o,%20Volume%20e%20ROI%20Anual,%20de%2030,%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
+[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Preço%2C%20Volume%20e%20ROI%20Anual%2C%20de%2030%2C%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
 
 ## 🚀 Funções das aplicações 🚀
 Aviso Legal: Este trabalho nao tem como intuito de dar aconcelhamento financeiro, tem apenas o intuito de verificar dados de ação de preço ao longo dos anos.
