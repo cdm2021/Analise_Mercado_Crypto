@@ -163,7 +163,7 @@ marketshare_top100_crypto_20210522.csv
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  name |  Nome da moeda  | Nome |
-|  current_price |  preço atual da moeda  |   |
+|  current_price |  preço atual da moeda  | >=0 |
 |  market_cap | Valor total de mercado de uma moeda | >=0 |
 |  total_volume |  Total de moedas trocadas num determinado período de tempo  |>=0 |
 
