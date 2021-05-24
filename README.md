@@ -41,14 +41,8 @@ bitcoin_price_marketcap_volume_20140101_20210302.csv
 | ------------------- | ------------------- | ----------------- |
 |  data |  Data | DD-MM-YYYY h-m-s-ms |
 |  BTCUSD |  Valor da Bitcoin em dólares | >=0 |
-|  ETHUSD |  Valor da Ethereum em dólares | >=0 |
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
-|  ROI |  Retorno sobre o investimento |  <0<  |
 |  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
-|  preço_inicial |  Preço inicial de uma moeda num determinado momento |  >=0  |
-|  prices |  Preço da moeda |  >=0  |
-|  Percentagem |  Percentagem de determinado valor |  >=0  |
-|  MarketShare | Percentagem de cada moeda no mercado |  >=0  |
 
 
 bitcoin_roi_30_dias_mensal.csv
