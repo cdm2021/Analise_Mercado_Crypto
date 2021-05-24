@@ -102,4 +102,60 @@ bitcoin_roi_anual_2014_2020.csv
 |  Ano |  Ano  | YYYY  |
 |  ROI |  ROI médio de cada ano  | 0 <= x <= 100, com valor percentual |
 |  Preço Inicial |  preço inicial no inicio de cada ano  | 0 <= x <= 100, com valor percentual |
+
+ethereum_price_marketcap_volume_20160101_20210302.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  data |  Data | DD-MM-YYYY h-m-s-ms |
+|  ETHUSD |  Valor da Ethereum em dólares | >=0 |
+|  marketcap |  Valor total de mercado de uma moeda | >=0 |
+|  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
+
+ethereum_roi_30_dias_mensal.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  |  YYYY  |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 30 Dias 2014 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2014  |0 <= x <= 100, com valor percentual   |
+|  ROI 30 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2016 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2016  | 0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+ethereum_roi_60_dias_mensal.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 60 Dias 2014 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2014  |  0 <= x <= 100, com valor percentual |
+|  ROI 60 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual  |
+|  ROI 60 Dias 2016 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2016  |  0 <= x <= 100, com valor percentual |
+|  ROI 60 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual |
+|  ROI 60 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 60 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual |
+|  ROI 60 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+
+ethereum_roi_90_dias_mensal.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 90 Dias 2014 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2014  |  0 <= x <= 100, com valor percentual |
+|  ROI 90 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual |
+|  ROI 90 Dias 2016 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2016  |  0 <= x <= 100, com valor percentual |
+|  ROI 90 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias 2019 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+
+
 ## 💡 Problemas, inconsistências e melhorias 💡 
