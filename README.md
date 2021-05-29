@@ -275,7 +275,7 @@ marketshare_top100_crypto_20210522.csv
 
 ## 💡 Problemas, inconsistências e melhorias 💡 
 
-Alguns problemas que necessitaram de atenção foi principalmente alguns dados que continham informação inútil, a necessidade de conversão das datas em epoch e a ausência de alguns dados em certos dias de 2017 nos dados fornecidos pela API da Coingecko.
+Alguns problemas que necessitaram de atenção foi principalmente alguns dados que continham informação inútil (para este trabalho), a necessidade de conversão das datas em epoch e a ausência de alguns dados em certos dias de 2017 nos dados fornecidos pela API da Coingecko.
 
 
 
