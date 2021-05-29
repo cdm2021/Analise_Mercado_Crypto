@@ -1,6 +1,6 @@
 # 💰 Análise do mercado de crypto 💰
 
-## 📋 Recolha de dados 📋
+## 📋 Recolha de dados e API's usados📋
 Os dados foram recolhidos através das API's fornecidas dos websites [Coingecko](https://www.coingecko.com/pt) e [Yahoo! Finance](https://finance.yahoo.com/) onde foram feitos “requests” de dados sobre o preço, volume e "market cap" de diversas cryptomoedas. Foram feitos mais "requests" de dados históricos das moedas Bitcoin, Ethereum e Cardano. Para o caso do Bitcoin a base de dados pedida foi entre 2013-04-28 até 2021. Já no caso do Ethereum, por ser uma moeda mais recente, a base de dados pedida apenas abrange dados entre 2015-08-07 até 2021. E para o Cardano, como a moeda mais recente destas 3, abrange desde 2017-10-18 até 2021. Todos foram fornecidos através do formato .json.
 
 A Coingecko é uma plataforma que fornece uma análise fundamental do mercado de criptomoedas. Além de acompanhar preços, volume e capitalização de mercado, a CoinGecko acompanha o crescimento da comunidade, desenvolvimento do código-fonte aberto, principais eventos e métricas em cadeia.
