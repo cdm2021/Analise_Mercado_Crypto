@@ -43,9 +43,15 @@ Aviso Legal: Este trabalho nao tem como intuito de dar aconcelhamento financeiro
 
 Análise de mercado de cryptomoedas em relação a MarketShare - Representação gráfica e atualizada de partilha de mercado entre as 100 maiores Criptomoedas em 2020. O uso de "others" serve para simplificar o gráfico e obter uma melhor visualização sobre as moedas que com maior valor total de mercado.
 
-Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin histórico desde 01/01/2014 até 01/03/2021. Foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin histórico desde 28/04/2013 até 28/05/2021. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
 
-Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum histórico desde 01/01/2016 até 01/03/2021. Tal como no caso do Bitcoin, foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum histórico desde 07/08/2015 até 28/05/2021. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
+
+Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ADA-USD - Preço e Volume de negócio do Cardano histórico desde 18/10/2017 até 28/05/2021. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores.
+
+Volatilidade BTC_ETH_ADA Yahoo - A Volatilidade pode ser vista como uma linha de média da mudança do preço. A volatilidade é uma boa representação visual do risco de uma moeda.
+
+Efficient Frontier - Simulação Monte Carlo - A "Efficient Frontier" é uma ferramenta visual que toma em conta o "Sharpe Ratio" de um determinado portfólio. Neste caso apenas foi calculados portfólios com as moedas BTC e ETH por nao haver dados históricos suficientes da moeda ADA/Cardano. A Simulação Monte Carlo é qualquer simulação que para a obtenção dos resultados faça o uso de dados aleatórios. A Simulação Monte Carlo foi utilizada na criação de potenciais portfólios, assim podemos criar e testar a quantidade de portfólios que achar-mos necessários para as nossas conlusões.
 
 ## 📔 Dicionário dos dados 📔
 
@@ -269,7 +275,7 @@ marketshare_top100_crypto_20210522.csv
 
 ## 💡 Problemas, inconsistências e melhorias 💡 
 
-Alguns problemas que necessitaram de atenção foi principalmente alguns dados que continham informação inútil, a necessidade de conversão das datas em epoch e a ausência de alguns dados em certos dias de 2017.
+Alguns problemas que necessitaram de atenção foi principalmente alguns dados que continham informação inútil, a necessidade de conversão das datas em epoch e a ausência de alguns dados em certos dias de 2017 nos dados fornecidos pela API da Coingecko.
 
 
 
