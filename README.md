@@ -41,6 +41,42 @@ Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume
 
 ## 📔 Dicionário dos dados 📔
 
+YahooFinance_bitcoin_price_volume_20140916_20210528.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Date |  Data | DD-MM-YYYY h-m-s-ms |
+|  High |  High | >=0 |
+|  Low |  Low | >=0 |
+|  Open |  Open | >=0 |
+|  Close |  Close | >=0 |
+| Volume |  Volume | >=0 |
+| Adj Close |  Volume | >=0 |
+
+YahooFinance_cardano_price_volume_20170930_20210528.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Date |  Data | DD-MM-YYYY h-m-s-ms |
+|  High |  High | >=0 |
+|  Low |  Low | >=0 |
+|  Open |  Open | >=0 |
+|  Close |  Close | >=0 |
+| Volume |  Volume | >=0 |
+| Adj Close |  Volume | >=0 |
+
+YahooFinance_ethereum_price_volume_20150806_20210528.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Date |  Data | DD-MM-YYYY h-m-s-ms |
+|  High |  High | >=0 |
+|  Low |  Low | >=0 |
+|  Open |  Open | >=0 |
+|  Close |  Close | >=0 |
+| Volume |  Volume | >=0 |
+| Adj Close |  Volume | >=0 |
+
 bitcoin_price_marketcap_volume_20140101_20210302.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
@@ -96,6 +132,53 @@ bitcoin_roi_90_dias_mensal.csv
 |  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
 bitcoin_roi_anual_2014_2020.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  | YYYY  |
+|  ROI |  ROI médio de cada ano  | 0 <= x <= 100, com valor percentual |
+|  Preço Inicial |  preço inicial no inicio de cada ano  | 0 <= x <= 100, com valor percentual |
+
+cardano_price_marketcap_volume_20171018_20210528.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Data|  Data  | dd-mm-yyyy h-m-s-ms |
+|  ADAUSD |  Valor da Cardano em dólares | >=0 |
+|  marketcap |  Valor total de mercado de uma moeda | >=0 |
+|  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
+
+cardano_roi_30_dias_mensal_2014-2020.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 30 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+cardano_roi_60_dias_mensal_2014-2020.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 60 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 60 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual |
+|  ROI 60 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+cardano_roi_90_dias_mensal_2014-2020.csv
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Meses |  Meses do Ano  | Mes |
+|  ROI 90 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias 2019 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
+|  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
+
+cardano_roi_anual_2018-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
