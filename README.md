@@ -46,36 +46,38 @@ YahooFinance_bitcoin_price_volume_20140916_20210528.csv
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  Date |  Data | DD-MM-YYYY h-m-s-ms |
-|  High |  High | >=0 |
-|  Low |  Low | >=0 |
-|  Open |  Open | >=0 |
-|  Close |  Close | >=0 |
-| Volume |  Volume | >=0 |
-| Adj Close |  Volume | >=0 |
+|  High |  é o preço máximo durante um certo dia | >=0 |
+|  Low |  é o preço mínimo durante um certo dia | >=0 |
+|  Open |  é o preço da primeira trade do dia | >=0 |
+|  Close |  é o preço da última trade do dia | >=0 |
+| Volume |  Total de moedas trocadas num determinado período de tempo | >=0 |
+| Adj Close |  corrige o preço de "Close" de uma trade para refletir o valor dessa ação após a contabilização de quaisquer ações corporativas | >=0 |
 
 YahooFinance_cardano_price_volume_20170930_20210528.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  Date |  Data | DD-MM-YYYY h-m-s-ms |
-|  High |  High | >=0 |
-|  Low |  Low | >=0 |
-|  Open |  Open | >=0 |
-|  Close |  Close | >=0 |
-| Volume |  Volume | >=0 |
-| Adj Close |  Volume | >=0 |
+|  High |  é o preço máximo durante um certo dia | >=0 |
+|  Low |  é o preço mínimo durante um certo dia | >=0 |
+|  Open |  é o preço da primeira trade do dia | >=0 |
+|  Close |  é o preço da última trade do dia | >=0 |
+| Volume |  Total de moedas trocadas num determinado período de tempo | >=0 |
+| Adj Close |  corrige o preço de "Close" de uma trade para refletir o valor dessa ação após a contabilização de quaisquer ações corporativas | >=0 |
+
 
 YahooFinance_ethereum_price_volume_20150806_20210528.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  Date |  Data | DD-MM-YYYY h-m-s-ms |
-|  High |  High | >=0 |
-|  Low |  Low | >=0 |
-|  Open |  Open | >=0 |
-|  Close |  Close | >=0 |
-| Volume |  Volume | >=0 |
-| Adj Close |  Volume | >=0 |
+|  High |  é o preço máximo durante um certo dia | >=0 |
+|  Low |  é o preço mínimo durante um certo dia | >=0 |
+|  Open |  é o preço da primeira trade do dia | >=0 |
+|  Close |  é o preço da última trade do dia | >=0 |
+| Volume |  Total de moedas trocadas num determinado período de tempo | >=0 |
+| Adj Close |  corrige o preço de "Close" de uma trade para refletir o valor dessa ação após a contabilização de quaisquer ações corporativas | >=0 |
+
 
 bitcoin_price_marketcap_volume_20140101_20210302.csv
 
