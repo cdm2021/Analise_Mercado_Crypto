@@ -1,13 +1,15 @@
 # 💰 Análise do mercado de crypto 💰
 
 ## 📋 Recolha de dados 📋
-Os dados foram recolhidos através do site [Coingecko](https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o preço, volume e "market cap" de diversas cryptomoedas. Foram feitos mais "requests" de preço, volume e "market cap" históricos das moedas Bitcoin e Ethereum. Para o caso do Bitcoin a base de dados pedida foi entre 2014 até 2021. Já no caso do Ethereum, por ser uma moeda mais recente, a base de dados pedida apenas abrange dados entre 2016 até 2021. Todos foram fornecidos através do formato .json.
+Os dados foram recolhidos através das API's fornecidas dos websites [Coingecko](https://www.coingecko.com/pt) e [Yahoo! Finance](https://finance.yahoo.com/) onde foram feitos “requests” de dados sobre o preço, volume e "market cap" de diversas cryptomoedas. Foram feitos mais "requests" de dados históricos das moedas Bitcoin, Ethereum e Cardano. Para o caso do Bitcoin a base de dados pedida foi entre 2013-04-28 até 2021. Já no caso do Ethereum, por ser uma moeda mais recente, a base de dados pedida apenas abrange dados entre 2015-08-07 até 2021. E para o Cardano, como a moeda mais recente destas 3, abrange desde 2017-10-18 até 2021. Todos foram fornecidos através do formato .json.
 
 A Coingecko é uma plataforma que fornece uma análise fundamental do mercado de criptomoedas. Além de acompanhar preços, volume e capitalização de mercado, a CoinGecko acompanha o crescimento da comunidade, desenvolvimento do código-fonte aberto, principais eventos e métricas em cadeia.
 
+Yahoo! Finance é uma propriedade de mídia que faz parte do Yahoo! rede de Ele fornece notícias financeiras, dados e comentários, incluindo cotações de ações, press releases, relatórios financeiros e conteúdo original. Ele também oferece algumas ferramentas online para gerenciamento de finanças pessoais.
+
 Limpámos alguns dados que não eram relevantes para este projeto de forma a conseguirmos uma base de dados mais limpa e fácil de trabalhar no nosso objetivo.
 
-Existe um dado por volta de 2017 na coluna de "Market Cap" que está alterado com o dado do dia seguinte por nao existir qualquer dado para aquele dia em relação ao "market cap". Para contornar este problema decidimos encontrar o index do dia em que se encontra o erro nos dados e substituir por 0.
+Existe um dado, proveniente da base de dados fornecida pela Coingecko, por volta de 2017 na coluna de "Market Cap" que está alterado com o dado do dia seguinte por nao existir qualquer dado para aquele dia em relação ao "market cap". Para contornar este problema decidimos encontrar o index do dia em que se encontra o erro nos dados e substituir por 0.
 
 Convertemos o tempo epoch em tempo ISO 8601 para ser percetível a qualquer humano ler a data.
 
@@ -26,9 +28,15 @@ Porque todas as boas decisões começam com bons dados.
 ## 🧱 Estrutura 🧱
 [Análise de mercado de cryptomoedas em relação a MarketShare](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Análise%20de%20mercado%20de%20cryptomoedas%20no%20geral.ipynb).
 
-[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Preço%2C%20Volume%20e%20ROI%20Anual%2C%20de%2030%2C%2060%20e%2090%20dias%20do%20par%20BTC-USD.ipynb).
+[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Pre%C3%A7o%2C%20Volume%20e%20ROI%20Anual%20do%20par%20BTC-USD.ipynb).
 
-[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Preço%2C%20Volume%20e%20ROI%20Anual%2C%20de%2030%2C%2060%20e%2090%20dias%20do%20par%20ETH-USD.ipynb).
+[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Pre%C3%A7o%2C%20Volume%20e%20ROI%20Anual%20do%20par%20ETH-USD.ipynb).
+
+[Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ADA-USD](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Pre%C3%A7o%2C%20Volume%20e%20ROI%20Anual%20do%20par%20ADA-USD.ipynb).
+
+[Volatilidade BTC_ETH_ADA Yahoo](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Volatilidade%20BTC_ETH_ADA%20Yahoo.ipynb).
+
+[Efficient Frontier - Simulação Monte Carlo](https://github.com/cdm2021/Analise_Mercado_Crypto/blob/main/Notebooks/Efficient%20Frontier%20-%20Simula%C3%A7%C3%A3o%20Monte%20Carlo.ipynb).
 
 ## 🚀 Funções das aplicações 🚀
 Aviso Legal: Este trabalho nao tem como intuito de dar aconcelhamento financeiro, tem apenas o intuito de verificar dados de ação de preço ao longo dos anos.
