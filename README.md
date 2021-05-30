@@ -5,6 +5,8 @@ Os dados foram recolhidos através das API's fornecidas dos websites [Coingecko]
 
 A Coingecko é uma plataforma que fornece uma análise fundamental do mercado de criptomoedas. Além de acompanhar preços, volume e capitalização de mercado, a CoinGecko acompanha o crescimento da comunidade, desenvolvimento do código-fonte aberto, principais eventos e métricas em cadeia.
 
+Os csv's foram criados com os dataframes fornecidos pelas API's com o Jupyter Notebook.
+
 Yahoo! Finance é uma propriedade de mídia que faz parte do Yahoo! rede de Ele fornece notícias financeiras, dados e comentários, incluindo cotações de ações, press releases, relatórios financeiros e conteúdo original. Ele também oferece algumas ferramentas online para gerenciamento de finanças pessoais.
 
 Limpámos alguns dados que não eram relevantes para este projeto de forma a conseguirmos uma base de dados mais limpa e fácil de trabalhar no nosso objetivo.
