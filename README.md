@@ -95,7 +95,7 @@ YahooFinance_ethereum_price_volume_20150806_20210528.csv
 | Adj Close |  corrige o preço de "Close" de uma trade para refletir o valor dessa ação após a contabilização de quaisquer ações corporativas | >=0 |
 
 
-bitcoin_price_marketcap_volume_20140101_20210302.csv
+bitcoin_price_marketcap_volume_20130428_20210528.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -105,7 +105,7 @@ bitcoin_price_marketcap_volume_20140101_20210302.csv
 |  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
 
 
-bitcoin_roi_30_dias_mensal.csv
+bitcoin_roi_30_dias_mensal_2014-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -120,7 +120,7 @@ bitcoin_roi_30_dias_mensal.csv
 |  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-bitcoin_roi_60_dias_mensal.csv
+bitcoin_roi_60_dias_mensal_2014-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -135,7 +135,7 @@ bitcoin_roi_60_dias_mensal.csv
 |  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
 
-bitcoin_roi_90_dias_mensal.csv
+bitcoin_roi_90_dias_mensal_2014-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -149,7 +149,7 @@ bitcoin_roi_90_dias_mensal.csv
 |  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-bitcoin_roi_anual_2014_2020.csv
+bitcoin_roi_anual_2014-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -166,7 +166,7 @@ cardano_price_marketcap_volume_20171018_20210528.csv
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
 |  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
 
-cardano_roi_30_dias_mensal_2014-2020.csv
+cardano_roi_30_dias_mensal_2018-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -176,7 +176,7 @@ cardano_roi_30_dias_mensal_2014-2020.csv
 |  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-cardano_roi_60_dias_mensal_2014-2020.csv
+cardano_roi_60_dias_mensal_2018-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -186,7 +186,7 @@ cardano_roi_60_dias_mensal_2014-2020.csv
 |  ROI 60 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 60 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-cardano_roi_90_dias_mensal_2014-2020.csv
+cardano_roi_90_dias_mensal_2018-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -204,7 +204,7 @@ cardano_roi_anual_2018-2020.csv
 |  ROI |  ROI médio de cada ano  | 0 <= x <= 100, com valor percentual |
 |  Preço Inicial |  preço inicial no inicio de cada ano  | 0 <= x <= 100, com valor percentual |
 
-ethereum_price_marketcap_volume_20160101_20210302.csv
+ethereum_price_marketcap_volume_20150807_20210528.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -213,7 +213,7 @@ ethereum_price_marketcap_volume_20160101_20210302.csv
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
 |  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
 
-ethereum_roi_30_dias_mensal.csv
+ethereum_roi_30_dias_mensal_2016-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -228,7 +228,7 @@ ethereum_roi_30_dias_mensal.csv
 |  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-ethereum_roi_60_dias_mensal.csv
+ethereum_roi_60_dias_mensal_2016-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -243,7 +243,7 @@ ethereum_roi_60_dias_mensal.csv
 |  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
 
-ethereum_roi_90_dias_mensal.csv
+ethereum_roi_90_dias_mensal_2016-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -257,7 +257,7 @@ ethereum_roi_90_dias_mensal.csv
 |  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 90 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-ethereum_roi_anual_2016_2020.csv
+ethereum_roi_anual_2016-2020.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
@@ -265,14 +265,6 @@ ethereum_roi_anual_2016_2020.csv
 |  ROI |  ROI médio de cada ano  | 0 <= x <= 100, com valor percentual |
 |  Preço Inicial |  preço inicial no inicio de cada ano  | 0 <= x <= 100, com valor percentual |
 
-marketshare_top100_crypto_20210522.csv
-
-| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
-| ------------------- | ------------------- | ----------------- |
-|  name |  Nome da moeda  | Nome |
-|  current_price |  preço atual da moeda  | >=0 |
-|  market_cap | Valor total de mercado de uma moeda | >=0 |
-|  total_volume |  Total de moedas trocadas num determinado período de tempo  |>=0 |
 
 
 ## 💡 Problemas, inconsistências e melhorias 💡 
