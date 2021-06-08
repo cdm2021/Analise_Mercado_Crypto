@@ -279,6 +279,9 @@ Este trabalho foi inspirado no canal do youtube [Benjamin Cowen](https://www.you
 Em relação a formulas usadas:
 
 -> Para o ROI usámos uma simples formula para o calculo de retorno simples.
+
 -> Para o "Average True Range" foi usado uma formula presente nesta página da [Investopedia](https://www.investopedia.com/terms/a/atr.asp)
+
 -> Para a Simlação Monte Carlo foi baseado na definição presente na [Wikipédia](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo#Exemplo_em_Python_2)
+
 -> Para o cálculo de retorno esperado foi usado um formula presente nesta página da [Finance Training Course](https://financetrainingcourse.com/education/2011/04/market-risk-metrics-portfolio-volatility/)
